@@ -1,2 +1,2 @@
 # Keeper
-A note keeping app.
+A note keeping app created using React.
